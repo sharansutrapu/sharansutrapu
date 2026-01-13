@@ -1,19 +1,19 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=600&pause=500&color=00FF00&center=true&vCenter=false&multiline=true&width=800&height=150&lines=SYSTEM+STATUS:+ONLINE;IDENTITY:+SHARAN+SUTRAPU;CLASS:+DEVOPS+%26+SRE+COMMANDER;INITIATING+WAKE_UP_PROTOCOL...;WELCOME+TO+THE+MAINFRAME." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=600&pause=500&color=00FF00&center=true&vCenter=false&multiline=true&width=800&height=190&lines=SYSTEM+STATUS:+ONLINE;IDENTITY:+SHARAN+SUTRAPU;CLASS:+DEVOPS+%26+SRE+COMMANDER;INITIATING+WAKE_UP_PROTOCOL...;WELCOME+TO+THE+MAINFRAME." alt="Typing SVG" />
   </a>
 
   <br/>
 
   <a href="https://sharansutrapu.com" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/>
   </a>
   <a href="https://linkedin.com/in/sharan-kumar-reddy-sutrapu-34650519b" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@sutrapusharan" target="_blank">
-    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 
 </div>
