@@ -29,7 +29,7 @@
 <br/>
 
 <h3 align="center" style="color: #00FF00;">🧬 BIO-METRICS</h3> 
-<div align="center">
+<div align="left">
 <pre>
 UNIT    :  Sharan Kumar Reddy Sutrapu
 ROLE    :  DevOps & SRE Engineer
