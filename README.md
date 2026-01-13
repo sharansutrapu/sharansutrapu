@@ -103,8 +103,10 @@
 
 <h3 align="center" style="color: #00FF00;">📊 SYSTEM TELEMETRY</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharansutrapu&amp;show_icons=true&amp;theme=gotham&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF00&amp;icon_color=00FF00" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharansutrapu&amp;layout=compact&amp;theme=gotham&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF00" height="150" alt="languages" />
+
+[![stats graph](https://github-readme-stats.vercel.app/api?username=sharansutrapu&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)](https://github.com/sharansutrapu)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharansutrapu&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117&title_color=00FF00)](https://github.com/sharansutrapu)
+
 </div>
 
 <br/><br/>
