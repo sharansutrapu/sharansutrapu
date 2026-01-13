@@ -30,15 +30,15 @@
 
 <h3 align="center" style="color: #00FF00;">🧬 BIO-METRICS</h3>
 <div align="left">
-  <b>Unit:</b> Sharan Kumar Reddy Sutrapu &nbsp; • &nbsp;
-  <b>Role:</b> DevOps & SRE Engineer &nbsp; • &nbsp;
-  <b>Base:</b> Bengaluru, India &nbsp; • &nbsp;
+  <b>Unit:</b> Sharan Kumar Reddy Sutrapu<br/>
+  <b>Role:</b> DevOps & SRE Engineer<br/>
+  <b>Base:</b> Bengaluru, India<br/>
   <b>Uptime:</b> 24/7
 </div>
 
 <br/>
 
-<h3 align="center" style="color: #00FF00;">� MISSION PROFILE</h3>
+<h3 align="center" style="color: #00FF00;">🚀 MISSION PROFILE</h3>
 <div align="left">
   I build the digital roads that code travels on. As a <b>DevOps</b> and <b>Site Reliability Engineer</b>, I am driven by a single mission: to construct infrastructure that is as resilient as it is scalable. My work sits at the intersection of development and operations, where I focus on eliminating manual toil through aggressive automation and strictly defined <b>Infrastructure-as-Code (IaC)</b> practices.
   <br/><br/>
@@ -51,9 +51,9 @@
 
 <h3 align="center" style="color: #00FF00;">🔐 CLEARANCE LEVELS</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified_DevOps_Pro-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" />
-  <img src="https://img.shields.io/badge/CNCF-CKA_Administrator-326CE5?style=for-the-badge&logo=kubernetes&color=0d1117&labelColor=326CE5" />
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" />
+  <img src="https://img.shields.io/badge/AWS-Certified_DevOps_Pro-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
+  <img src="https://img.shields.io/badge/CNCF-CKA_Administrator-326CE5?style=for-the-badge&logo=kubernetes&color=0d1117&labelColor=326CE5" /><br/>
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
   <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&color=0d1117&labelColor=0078D4" />
 </div>
 
