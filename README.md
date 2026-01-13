@@ -99,16 +99,12 @@
 
 
 <h3 align="center" style="color: #00FF00;">📡 RESEARCH & TRANSMISSIONS</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/PUBLICATION-ML_ALGORITHMS_FOR_POTHOLE_DETECTION-0d1117?style=for-the-badge&logo=googlescholar&logoColor=00FF00&labelColor=0d1117&color=00FF00" /><br/>
-  <img src="https://img.shields.io/badge/PUBLICATION-DoS_DETECTION_TECHNIQUES-0d1117?style=for-the-badge&logo=googlescholar&logoColor=00FF00&labelColor=0d1117&color=00FF00" /><br/>
-  <img src="https://img.shields.io/badge/PUBLICATION-Li--Fi_IN_WLAN-0d1117?style=for-the-badge&logo=googlescholar&logoColor=00FF00&labelColor=0d1117&color=00FF00" />
-  
-  <br/><br/><br/>
-  
-  <h3 align="center" style="color: #00FF00;">⚡ OFFLINE MODE</h3>
-  <img src="https://img.shields.io/badge/HOBBY-LONG_DISTANCE_MOTORCYCLING-0d1117?style=for-the-badge&logo=honda&logoColor=FF0000&labelColor=0d1117&color=FF0000" /><br/>
-  <img src="https://img.shields.io/badge/VOLUNTEER-ANIMAL_WELFARE-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=FFA500&labelColor=0d1117&color=FFA500" />
+<div align="left">
+  <ul>
+    <li>"Implementing ML Algorithms for Pothole & Hump Detection"</li>
+    <li>"Survey on DoS Detection and Prevention Techniques"</li>
+    <li>"Utilizing Li-Fi in WLAN to Enhance B2B Communication"</li>
+  </ul>
 </div>
 
 <br/>
