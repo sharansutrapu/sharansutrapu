@@ -90,44 +90,7 @@
 
 <br/>
 
-<h3 align="center" style="color: #00FF00;">📜 MISSION LOGS (EXPERIENCE)</h3>
 
-<table>
-  <tr>
-    <th>Cycle</th>
-    <th>Operation</th>
-    <th>Protocols</th>
-  </tr>
-  <tr>
-    <td><b>Oct 2025 – Present</b></td>
-    <td><b>DevOps Engineer @ OpenText</b></td>
-    <td>
-      • Architected multi-environment AWS infrastructure (EKS, Lambda, RDS) via Terraform.<br/>
-      • Established comprehensive observability using OpenText services.<br/>
-      • Built seamless CI/CD pipelines via GitLab CI and ArgoCD.
-    </td>
-  </tr>
-  <tr>
-    <td><b>Mar 2023 – Oct 2025</b></td>
-    <td><b>Junior DevOps Engineer / SRE @ Mobius by Gaian</b></td>
-    <td>
-      • <b>COMMAND:</b> Led SRE Team, driving "RUNRUN" automation initiative.<br/>
-      • <b>DEPLOY:</b> Orchestrated zero-downtime migrations (Azure -> On-Prem, DO -> Azure).<br/>
-      • <b>AI OPS:</b> Architected MLOps environments (NVIDIA GPU Operators, Kubeflow).
-    </td>
-  </tr>
-  <tr>
-    <td><b>Aug 2021 – Mar 2023</b></td>
-    <td><b>Associate SRE @ Ushur</b></td>
-    <td>
-      • Designed Blue/Green Deployment strategies for prod workloads.<br/>
-      • Automated EC2 management using Lambda.<br/>
-      • Implemented AWS Security Hub & Alert Logic.
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 <h3 align="center" style="color: #00FF00;">📡 RESEARCH & TRANSMISSIONS</h3>
 <div align="center">
@@ -140,8 +103,8 @@
 
 <h3 align="center" style="color: #00FF00;">📊 SYSTEM TELEMETRY</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharansutrapu&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharansutrapu&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117&title_color=00FF00" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharansutrapu&amp;show_icons=true&amp;theme=gotham&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF00&amp;icon_color=00FF00" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharansutrapu&amp;layout=compact&amp;theme=gotham&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF00" height="150" alt="languages" />
 </div>
 
 <br/><br/>
