@@ -20,6 +20,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sharansutrapu/sharansutrapu/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br/>
+
 <table>
   <tr>
     <td width="30%" valign="top" align="center">
@@ -108,8 +114,4 @@
 
 </div>
 
-<br/><br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sharansutrapu/sharansutrapu/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
