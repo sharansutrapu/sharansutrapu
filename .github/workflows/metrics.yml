@@ -29,3 +29,10 @@ jobs:
           plugin_languages_ignored: >-
             html, css
           plugin_languages_limit: 8
+          # Introduction (Joined year)
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
+          # Calendar (This Year Graph)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
