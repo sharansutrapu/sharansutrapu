@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=SYSTEM+STATUS:+ONLINE;IDENTITY:+SHARAN+SUTRAPU;CLASS:+DEVOPS+%26+SRE+COMMANDER;INITIATING+WAKE_UP_PROTOCOL...;WELCOME+TO+THE+MAINFRAME." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=200&lines=SYSTEM+STATUS:+ONLINE;IDENTITY:+SHARAN+SUTRAPU;CLASS:+DEVOPS+%26+SRE+COMMANDER;INITIATING+WAKE_UP_PROTOCOL...;WELCOME+TO+THE+MAINFRAME." alt="Typing SVG" />
   </a>
 
   <br/>
