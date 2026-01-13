@@ -36,3 +36,4 @@ jobs:
           # Calendar (This Year Graph)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
