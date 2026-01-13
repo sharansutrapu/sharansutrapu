@@ -29,7 +29,7 @@
 <br/>
 
 <h3 align="center" style="color: #00FF00;">🧬 BIO-METRICS</h3>
-<div align="center">
+<div align="left">
   <b>Unit:</b> Sharan Kumar Reddy Sutrapu &nbsp; • &nbsp;
   <b>Role:</b> DevOps & SRE Engineer &nbsp; • &nbsp;
   <b>Base:</b> Bengaluru, India &nbsp; • &nbsp;
@@ -39,7 +39,7 @@
 <br/>
 
 <h3 align="center" style="color: #00FF00;">� MISSION PROFILE</h3>
-<div align="center">
+<div align="left">
   I build the digital roads that code travels on. As a <b>DevOps</b> and <b>Site Reliability Engineer</b>, I am driven by a single mission: to construct infrastructure that is as resilient as it is scalable. My work sits at the intersection of development and operations, where I focus on eliminating manual toil through aggressive automation and strictly defined <b>Infrastructure-as-Code (IaC)</b> practices.
   <br/><br/>
   I specialize in orchestrating complex, <b>multi-cloud</b>, and on-premise environments, ensuring systems don't just "run," but thrive under pressure. Whether I am designing self-healing <b>Kubernetes</b> clusters, architecting <b>MLOps</b> environments for heavy GPU workloads, or securing microservices, my philosophy is simple: automate everything, document the process, and never stop optimizing.
@@ -60,7 +60,7 @@
 <br/>
 
 <h3 align="center" style="color: #00FF00;">🛠 CORE SUBSYSTEMS</h3>
-<div align="center">
+<div align="left">
 
 <b>☁️ Cloud Platforms:</b><br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
