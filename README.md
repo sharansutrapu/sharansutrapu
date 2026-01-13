@@ -51,9 +51,9 @@
     <td width="70%" valign="top">
       <h3 align="center" style="color: #00FF00;">🚀 MISSION PROFILE</h3>
       <br />
-      I build the digital roads that code travels on. As a **DevOps** and **Site Reliability Engineer**, I am driven by a single mission: to construct infrastructure that is as resilient as it is scalable. My work sits at the intersection of development and operations, where I focus on eliminating manual toil through aggressive automation and strictly defined **Infrastructure-as-Code (IaC)** practices.
+      I build the digital roads that code travels on. As a <b>DevOps</b> and <b>Site Reliability Engineer</b>, I am driven by a single mission: to construct infrastructure that is as resilient as it is scalable. My work sits at the intersection of development and operations, where I focus on eliminating manual toil through aggressive automation and strictly defined <b>Infrastructure-as-Code (IaC)</b> practices.
       <br/><br/>
-      I specialize in orchestrating complex, **multi-cloud**, and on-premise environments, ensuring systems don't just "run," but thrive under pressure. Whether I am designing self-healing **Kubernetes** clusters, architecting **MLOps** environments for heavy GPU workloads, or securing microservices, my philosophy is simple: automate everything, document the process, and never stop optimizing.
+      I specialize in orchestrating complex, <b>multi-cloud</b>, and on-premise environments, ensuring systems don't just "run," but thrive under pressure. Whether I am designing self-healing <b>Kubernetes</b> clusters, architecting <b>MLOps</b> environments for heavy GPU workloads, or securing microservices, my philosophy is simple: automate everything, document the process, and never stop optimizing.
       <br/><br/>
       Beyond the technical architecture, I am passionate about the human side of engineering—fostering collaboration and mentoring teams to standardize operations. When I step away from the keyboard, I trade the cloud for the open road on my motorcycle 🏍️. I am also deeply dedicated to animal welfare 🐕, actively volunteering in adoption drives and shelter operations. Whether in the data center or the community, I am always looking for ways to make a positive difference.
       <br />
