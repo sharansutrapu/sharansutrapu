@@ -7,13 +7,13 @@
   <br/>
 
   <a href="https://sharansutrapu.com" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-MAIN_CONSOLE-000000?style=for-the-badge&logo=About.me&logoColor=00FF00&color=0d1117&labelColor=00FF00" alt="Website"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-MAIN_CONSOLE-000000?style=for-the-badge&logo=About.me&logoColor=00FF00&color=0d1117&labelColor=004400" alt="Website"/>
   </a>
   <a href="https://linkedin.com/in/sharan-kumar-reddy-sutrapu-34650519b" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-NEURAL_NET-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF00&color=0d1117&labelColor=00FF00" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-NEURAL_NET-0077B5?style=for-the-badge&logo=linkedin&logoColor=00FF00&color=0d1117&labelColor=004400" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@sutrapusharan" target="_blank">
-    <img src="https://img.shields.io/badge/MEDIUM-DATA_LOGS-12100E?style=for-the-badge&logo=medium&logoColor=00FF00&color=0d1117&labelColor=00FF00" alt="Medium"/>
+    <img src="https://img.shields.io/badge/MEDIUM-DATA_LOGS-12100E?style=for-the-badge&logo=medium&logoColor=00FF00&color=0d1117&labelColor=004400" alt="Medium"/>
   </a>
 
 </div>
@@ -33,7 +33,7 @@
 <pre>
 UNIT    :  Sharan Kumar Reddy Sutrapu
 ROLE    :  DevOps & SRE Engineer
-BASE    :  Bengaluru, India
+BASE    :  India
 UPTIME  :  24/7
 </pre>
 </div>
@@ -53,7 +53,7 @@ UPTIME  :  24/7
 <h3 align="center" style="color: #00FF00;">🔐 CLEARANCE LEVELS</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-Certified_DevOps_Pro-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
-  <img src="https://img.shields.io/badge/CNCF-CKA_Administrator-326CE5?style=for-the-badge&logo=kubernetes&color=0d1117&labelColor=326CE5" /><br/>
+  <img src="https://img.shields.io/badge/KUBERNETES-CKA_Administrator-326CE5?style=for-the-badge&logo=kubernetes&color=0d1117&labelColor=326CE5" /><br/>
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
   <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&color=0d1117&labelColor=0078D4" />
 </div>
@@ -141,5 +141,3 @@ UPTIME  :  24/7
 <div align="center">
   <code style="color: #00FF00;">[/// END OF TRANSMISSION ///]</code>
 </div>
-
-
