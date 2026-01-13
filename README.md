@@ -42,24 +42,18 @@
       <br/>
       <h3 align="center" style="color: #00FF00;">🔐 CLEARANCE LEVELS</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/AWS-Certified_DevOps_Pro-FF9900?style=flat&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
-        <img src="https://img.shields.io/badge/CNCF-CKA_Administrator-326CE5?style=flat&logo=kubernetes&color=0d1117&labelColor=326CE5" /><br/>
-        <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=flat&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
-        <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=flat&logo=microsoft-azure&color=0d1117&labelColor=0078D4" />
+        <img src="https://img.shields.io/badge/AWS-Certified_DevOps_Pro-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
+  <img src="https://img.shields.io/badge/CNCF-CKA_Administrator-326CE5?style=for-the-badge&logo=kubernetes&color=0d1117&labelColor=326CE5" /><br/>
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&color=0d1117&labelColor=0078D4" />
       </div>
     </td>
     <td width="70%" valign="top">
       <h3 align="center" style="color: #00FF00;">🚀 MISSION PROFILE</h3>
       <br />
-      DevOps and SRE professional specializing in <b>Multi-Cloud Architectures</b> (AWS, Azure, GCP). Functional expert in orchestrating <b>Kubernetes</b> environments, automating CI/CD lifecycles, and ensuring high system availability through robust observability stacks.
+      DevOps and SRE Commander specializing in architecting resilient <b>Multi-Cloud Infrastructures</b> across AWS, Azure, and GCP. Expert in orchestrating complex <b>Kubernetes</b> clusters, engineering seamless <b>CI/CD pipelines</b> using ArgoCD & GitLab, and enforcing 99.99% system availability via advanced <b>Observability</b> stacks.
       <br /><br />
-      🔭 <b>Current Objectives:</b>
-      <ul>
-        <li>Architecting Zero-Downtime Migrations.</li>
-        <li>Automating CI/CD lifecycles with ArgoCD & GitLab.</li>
-        <li>Building "Greenfield" engineering projects.</li>
-        <li><b>New Module Loading:</b> AI/ML Model Training & Deployment.</li>
-      </ul>
+      Currently focused on executing <b>Zero-Downtime Migrations</b>, building "Greenfield" engineering projects from the ground up, and integrating <b>AI/ML</b> models into production workflows.
       <br />
       <h3 align="center" style="color: #00FF00;">🛠 CORE SUBSYSTEMS</h3>
       <div align="center">
@@ -101,9 +95,9 @@
 <h3 align="center" style="color: #00FF00;">📡 RESEARCH & TRANSMISSIONS</h3>
 <div align="left">
   <ul>
-    <li>"Implementing ML Algorithms for Pothole & Hump Detection"</li>
-    <li>"Survey on DoS Detection and Prevention Techniques"</li>
-    <li>"Utilizing Li-Fi in WLAN to Enhance B2B Communication"</li>
+    <li>🛣️ <b>Implementing ML Algorithms for Pothole & Hump Detection</b></li>
+    <li>🛡️ <b>Survey on DoS Detection and Prevention Techniques</b></li>
+    <li>📶 <b>Utilizing Li-Fi in WLAN to Enhance B2B Communication</b></li>
   </ul>
 </div>
 
