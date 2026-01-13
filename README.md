@@ -100,9 +100,15 @@
 
 <h3 align="center" style="color: #00FF00;">📡 RESEARCH & TRANSMISSIONS</h3>
 <div align="center">
-  <b>Top Publications:</b> "Implementing ML Algorithms for Pothole & Hump Detection", "DoS Detection Techniques", "Li-Fi in WLAN".
-  <br/><br/>
-  ⚡ <b>OFFLINE MODE:</b> Long Distance Motorcycling 🏍️ | Animal Welfare Volunteer 🐕
+  <img src="https://img.shields.io/badge/PUBLICATION-ML_ALGORITHMS_FOR_POTHOLE_DETECTION-0d1117?style=for-the-badge&logo=googlescholar&logoColor=00FF00&labelColor=0d1117&color=00FF00" /><br/>
+  <img src="https://img.shields.io/badge/PUBLICATION-DoS_DETECTION_TECHNIQUES-0d1117?style=for-the-badge&logo=googlescholar&logoColor=00FF00&labelColor=0d1117&color=00FF00" /><br/>
+  <img src="https://img.shields.io/badge/PUBLICATION-Li--Fi_IN_WLAN-0d1117?style=for-the-badge&logo=googlescholar&logoColor=00FF00&labelColor=0d1117&color=00FF00" />
+  
+  <br/><br/><br/>
+  
+  <h3 align="center" style="color: #00FF00;">⚡ OFFLINE MODE</h3>
+  <img src="https://img.shields.io/badge/HOBBY-LONG_DISTANCE_MOTORCYCLING-0d1117?style=for-the-badge&logo=honda&logoColor=FF0000&labelColor=0d1117&color=FF0000" /><br/>
+  <img src="https://img.shields.io/badge/VOLUNTEER-ANIMAL_WELFARE-0d1117?style=for-the-badge&logo=githubsponsors&logoColor=FFA500&labelColor=0d1117&color=FFA500" />
 </div>
 
 <br/>
