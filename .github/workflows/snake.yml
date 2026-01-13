@@ -3,11 +3,13 @@ name: Generate Snake
 on:
   schedule:
     # Runs every 12 hours
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
