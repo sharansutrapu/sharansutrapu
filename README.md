@@ -15,6 +15,9 @@
   <a href="https://medium.com/@sutrapusharan" target="_blank">
     <img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 
 </div>
 
@@ -25,13 +28,13 @@
     <td width="50%" valign="top">
       <h3 align="center">🚀 MISSION PROFILE</h3>
       <br />
-        I am a <b>DevOps & SRE Engineer</b> specializing in orchestrating scalable <b>multi-cloud infrastructures</b> (AWS, Azure, GCP).
+        I am a <b>DevOps & SRE Engineer</b> specializing in orchestrating scalable <b>multi-cloud infrastructures</b> (AWS, Azure, GCP)[cite: 13].
       <br /><br />
       🔭 <b>Current Objectives:</b>
       <ul>
-        <li>Architecting Zero-Downtime Migrations </li>
+        <li>Architecting Zero-Downtime Migrations [cite: 42]</li>
         <li>Automating CI/CD lifecycles with ArgoCD & GitLab [cite: 33]</li>
-        <li>Building "Greenfield" engineering projects </li>
+        <li>Building "Greenfield" engineering projects [cite: 41]</li>
       </ul>
       <br />
       ⚡ <b>Offline Protocols:</b><br />
@@ -63,4 +66,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharansutrapu&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=39FF14" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/sharansutrapu/sharansutrapu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
