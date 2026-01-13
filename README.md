@@ -132,7 +132,7 @@
 
 <h3 align="center" style="color: #00FF00;">📊 SYSTEM TELEMETRY</h3>
 <div align="center">
-<img src="https://github.com/sharansutrapu/sharansutrapu/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://raw.githubusercontent.com/sharansutrapu/sharansutrapu/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 
