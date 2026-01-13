@@ -57,38 +57,62 @@
       <br />
       <h3 align="center" style="color: #00FF00;">🛠 CORE SUBSYSTEMS</h3>
       <div align="center">
-<p align="center">
-<b>☁️ CLOUD & INFRASTRUCTURE</b><br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenStack-E01D5A?style=for-the-badge&logo=openstack&logoColor=white" />
-</p>
+<div align="left">
 
-<p align="center">
-<b>☸️ ORCHESTRATION & IAC</b><br/>
+<b>☁️ Cloud Platforms:</b><br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenStack-E01D5A?style=for-the-badge&logo=openstack&logoColor=white" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+<br/><br/>
+
+<b>📦 Container Orchestration:</b><br/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<br/><br/>
+
+<b>🛠 IaC & Automation:</b><br/>
+<img src="https://img.shields.io/badge/OpenTofu-FFD800?style=for-the-badge&logo=opentofu&logoColor=black" />
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/AWX-000000?style=for-the-badge&logo=ansible&logoColor=white" />
+<br/><br/>
 
-<p align="center">
-<b>🔭 OBSERVABILITY</b><br/>
+<b>🔄 CI/CD:</b><br/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Tekton-00979D?style=for-the-badge&logo=tekton&logoColor=white" />
+<img src="https://img.shields.io/badge/ArgoCD-ef7b4d?style=for-the-badge&logo=argo&logoColor=white" />
+<br/><br/>
+
+<b>🔭 Observability:</b><br/>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Dynatrace-1C58D9?style=for-the-badge&logo=dynatrace&logoColor=white" />
 <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Dynatrace-1C58D9?style=for-the-badge&logo=dynatrace&logoColor=white" />
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+<br/><br/>
 
-<p align="center">
-<b>💻 SCRIPTING & DATA</b><br/>
+<b>💻 Scripting & Backend:</b><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<br/><br/>
+
+<b>💾 Databases:</b><br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-</p>
+<br/><br/>
+
+<b>🌐 Web Technologies:</b><br/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+</div>
       </div>
     </td>
   </tr>
