@@ -30,7 +30,7 @@
         <ul>
           <li><b>Unit:</b> Sharan Kumar Reddy Sutrapu</li>
           <li><b>Role:</b> DevOps & SRE Engineer</li>
-          <li><b>Base:</b> India</li>
+          <li><b>Base:</b> Bengaluru, India</li>
           <li><b>Uptime:</b> 24/7</li>
         </ul>
       </div>
@@ -46,7 +46,7 @@
     <td width="70%" valign="top">
       <h3 align="center" style="color: #00FF00;">🚀 MISSION PROFILE</h3>
       <br />
-        DevOps and SRE professional specializing in <b>Multi-Cloud Architectures</b> (AWS, Azure, GCP). Functional expert in orchestrating <b>Kubernetes</b> environments, automating CI/CD lifecycles, and ensuring high system availability through robust observability stacks.
+      DevOps and SRE professional specializing in <b>Multi-Cloud Architectures</b> (AWS, Azure, GCP). Functional expert in orchestrating <b>Kubernetes</b> environments, automating CI/CD lifecycles, and ensuring high system availability through robust observability stacks.
       <br /><br />
       🔭 <b>Current Objectives:</b>
       <ul>
@@ -70,7 +70,7 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenTofu-FFD800?style=flat-square&logo=opentofu&logoColor=black" />
         <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-         <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
         <br />
         <!-- Monitoring - Observability -->
         <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
