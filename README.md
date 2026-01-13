@@ -136,4 +136,10 @@ UPTIME  :  24/7
 <img src="https://raw.githubusercontent.com/sharansutrapu/sharansutrapu/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
+<br/><br/>
+
+<div align="center">
+  <code style="color: #00FF00;">[/// END OF TRANSMISSION ///]</code>
+</div>
+
 
