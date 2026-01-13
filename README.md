@@ -104,8 +104,7 @@
 <h3 align="center" style="color: #00FF00;">📊 SYSTEM TELEMETRY</h3>
 <div align="center">
 
-[![stats graph](https://github-readme-stats-sigma-five.vercel.app/api?username=sharansutrapu&show_icons=true&theme=gotham&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00)](https://github.com/sharansutrapu)
-[![languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sharansutrapu&layout=compact&theme=gotham&hide_border=true&bg_color=0D1117&title_color=00FF00)](https://github.com/sharansutrapu)
+<img src="https://github.com/sharansutrapu/sharansutrapu/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
 </div>
 
