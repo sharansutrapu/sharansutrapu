@@ -7,13 +7,13 @@
   <br/>
 
   <a href="https://sharansutrapu.com" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=aboutdotme&logoColor=00FF00" alt="Website"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/>
   </a>
   <a href="https://linkedin.com/in/sharan-kumar-reddy-sutrapu-34650519b" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@sutrapusharan" target="_blank">
-    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=00FF00" alt="Medium"/>
+    <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 
 </div>
