@@ -53,7 +53,7 @@ UPTIME  :  24/7
 <h3 align="center" style="color: #00FF00;">🔐 CLEARANCE LEVELS</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-Certified_DevOps_Pro-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
-  <img src="https://img.shields.io/badge/KUBERNETES-CKA_Administrator-326CE5?style=for-the-badge&logo=kubernetes&color=0d1117&labelColor=326CE5" /><br/>
+  <img src="https://img.shields.io/badge/CNCF-CKA_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=0d1117&labelColor=326CE5" /><br/>
   <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
   <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&color=0d1117&labelColor=0078D4" />
 </div>
