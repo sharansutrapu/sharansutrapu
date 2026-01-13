@@ -26,40 +26,41 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td width="30%" valign="top" align="center">
-      <br/><br/>
-      <h3 align="center" style="color: #00FF00;">🧬 BIO-METRICS</h3>
-      <div align="left">
-        <ul>
-          <li><b>Unit:</b> Sharan Kumar Reddy Sutrapu</li>
-          <li><b>Role:</b> DevOps & SRE Engineer</li>
-          <li><b>Base:</b> Bengaluru, India</li>
-          <li><b>Uptime:</b> 24/7</li>
-        </ul>
-      </div>
-      <br/>
-      <h3 align="center" style="color: #00FF00;">🔐 CLEARANCE LEVELS</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/AWS-Certified_DevOps_Pro-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
-  <img src="https://img.shields.io/badge/CNCF-CKA_Administrator-326CE5?style=for-the-badge&logo=kubernetes&color=0d1117&labelColor=326CE5" /><br/>
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
+<br/>
+
+<h3 align="center" style="color: #00FF00;">🧬 BIO-METRICS</h3>
+<div align="center">
+  <b>Unit:</b> Sharan Kumar Reddy Sutrapu &nbsp; • &nbsp;
+  <b>Role:</b> DevOps & SRE Engineer &nbsp; • &nbsp;
+  <b>Base:</b> Bengaluru, India &nbsp; • &nbsp;
+  <b>Uptime:</b> 24/7
+</div>
+
+<br/>
+
+<h3 align="center" style="color: #00FF00;">� MISSION PROFILE</h3>
+<div align="center">
+  I build the digital roads that code travels on. As a <b>DevOps</b> and <b>Site Reliability Engineer</b>, I am driven by a single mission: to construct infrastructure that is as resilient as it is scalable. My work sits at the intersection of development and operations, where I focus on eliminating manual toil through aggressive automation and strictly defined <b>Infrastructure-as-Code (IaC)</b> practices.
+  <br/><br/>
+  I specialize in orchestrating complex, <b>multi-cloud</b>, and on-premise environments, ensuring systems don't just "run," but thrive under pressure. Whether I am designing self-healing <b>Kubernetes</b> clusters, architecting <b>MLOps</b> environments for heavy GPU workloads, or securing microservices, my philosophy is simple: automate everything, document the process, and never stop optimizing.
+  <br/><br/>
+  Beyond the technical architecture, I am passionate about the human side of engineering—fostering collaboration and mentoring teams to standardize operations. When I step away from the keyboard, I trade the cloud for the open road on my motorcycle 🏍️. I am also deeply dedicated to animal welfare 🐕, actively volunteering in adoption drives and shelter operations. Whether in the data center or the community, I am always looking for ways to make a positive difference.
+</div>
+
+<br/>
+
+<h3 align="center" style="color: #00FF00;">🔐 CLEARANCE LEVELS</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-Certified_DevOps_Pro-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" />
+  <img src="https://img.shields.io/badge/CNCF-CKA_Administrator-326CE5?style=for-the-badge&logo=kubernetes&color=0d1117&labelColor=326CE5" />
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" />
   <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&color=0d1117&labelColor=0078D4" />
-      </div>
-    </td>
-    <td width="70%" valign="top">
-      <h3 align="center" style="color: #00FF00;">🚀 MISSION PROFILE</h3>
-      <br />
-      I build the digital roads that code travels on. As a <b>DevOps</b> and <b>Site Reliability Engineer</b>, I am driven by a single mission: to construct infrastructure that is as resilient as it is scalable. My work sits at the intersection of development and operations, where I focus on eliminating manual toil through aggressive automation and strictly defined <b>Infrastructure-as-Code (IaC)</b> practices.
-      <br/><br/>
-      I specialize in orchestrating complex, <b>multi-cloud</b>, and on-premise environments, ensuring systems don't just "run," but thrive under pressure. Whether I am designing self-healing <b>Kubernetes</b> clusters, architecting <b>MLOps</b> environments for heavy GPU workloads, or securing microservices, my philosophy is simple: automate everything, document the process, and never stop optimizing.
-      <br/><br/>
-      Beyond the technical architecture, I am passionate about the human side of engineering—fostering collaboration and mentoring teams to standardize operations. When I step away from the keyboard, I trade the cloud for the open road on my motorcycle 🏍️. I am also deeply dedicated to animal welfare 🐕, actively volunteering in adoption drives and shelter operations. Whether in the data center or the community, I am always looking for ways to make a positive difference.
-      <br />
-      <h3 align="center" style="color: #00FF00;">🛠 CORE SUBSYSTEMS</h3>
-      <div align="center">
-<div align="left">
+</div>
+
+<br/>
+
+<h3 align="center" style="color: #00FF00;">🛠 CORE SUBSYSTEMS</h3>
+<div align="center">
 
 <b>☁️ Cloud Platforms:</b><br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -115,14 +116,8 @@
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 </div>
-      </div>
-    </td>
-  </tr>
-</table>
 
 <br/>
-
-
 
 <h3 align="center" style="color: #00FF00;">📡 RESEARCH & TRANSMISSIONS</h3>
 <div align="left">
@@ -137,9 +132,7 @@
 
 <h3 align="center" style="color: #00FF00;">📊 SYSTEM TELEMETRY</h3>
 <div align="center">
-
 <img src="https://github.com/sharansutrapu/sharansutrapu/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-
 </div>
 
 
