@@ -51,38 +51,44 @@
     <td width="70%" valign="top">
       <h3 align="center" style="color: #00FF00;">🚀 MISSION PROFILE</h3>
       <br />
-      DevOps and SRE Commander specializing in architecting resilient <b>Multi-Cloud Infrastructures</b> across AWS, Azure, and GCP. Expert in orchestrating complex <b>Kubernetes</b> clusters, engineering seamless <b>CI/CD pipelines</b> using ArgoCD & GitLab, and enforcing 99.99% system availability via advanced <b>Observability</b> stacks.
+      DevOps & SRE Engineer with extensive experience in architecting high-availability **Multi-Cloud Infrastructures** (AWS, Azure, GCP). Specializes in orchestrating complex **Kubernetes** environments, automating end-to-end **CI/CD** pipelines via ArgoCD & GitLab, and implementing advanced observability stacks. 
       <br /><br />
-      Currently focused on executing <b>Zero-Downtime Migrations</b>, building "Greenfield" engineering projects from the ground up, and integrating <b>AI/ML</b> models into production workflows.
+      Expert in driving **Zero-Downtime Migrations**, designing **Blue/Green Deployment** strategies, and deploying **MLOps** workflows for AI model training. Dedicated to optimizing system reliability and accelerating engineering velocity through aggressive automation and infrastructure-as-code principles.
       <br />
       <h3 align="center" style="color: #00FF00;">🛠 CORE SUBSYSTEMS</h3>
       <div align="center">
-<!-- Cloud -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenStack-E01D5A?style=flat-square&logo=openstack&logoColor=white" />
-<br />
-<!-- Containers & Orchestration -->
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenTofu-FFD800?style=flat-square&logo=opentofu&logoColor=black" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-<br />
-<!-- Monitoring - Observability -->
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/Dynatrace-1C58D9?style=flat-square&logo=dynatrace&logoColor=white" />
-<img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white" />
-<br />
-<!-- Languages & DB -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+      <p align="center">
+        <b>☁️ CLOUD & INFRASTRUCTURE</b><br/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenStack-E01D5A?style=for-the-badge&logo=openstack&logoColor=white" />
+      </p>
+
+      <p align="center">
+        <b>☸️ ORCHESTRATION & IAC</b><br/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+      </p>
+
+      <p align="center">
+        <b>🔭 OBSERVABILITY</b><br/>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dynatrace-1C58D9?style=for-the-badge&logo=dynatrace&logoColor=white" />
+        <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+      </p>
+
+      <p align="center">
+        <b>💻 SCRIPTING & DATA</b><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+      </p>
       </div>
     </td>
   </tr>
