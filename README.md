@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/sharan-kumar-reddy-sutrapu-34650519b" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@sutrapusharan" target="_blank">
+  <a href="https://medium.com/@sharansutrapu" target="_blank">
     <img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 
