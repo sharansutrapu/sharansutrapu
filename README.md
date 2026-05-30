@@ -51,35 +51,65 @@ UPTIME  :  24/7
 
 <br/>
 
-<h3 align="center" style="color: #00FF00;">🔐 CLEARANCE LEVELS</h3>
-
 <div align="center">
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_DevOps_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=0d1117&labelColor=4285F4" />
+    <td valign="top" width="55%">
+      <h3 align="center" style="color: #00FF00;">🔐 CLEARANCE LEVELS</h3>
+      <table align="center">
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_DevOps_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=0d1117&labelColor=4285F4" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/Microsoft-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0d1117&labelColor=0078D4" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=0d1117&labelColor=FF9900" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/CNCF-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=0d1117&labelColor=326CE5" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/Azure-Administrator_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0d1117&labelColor=0078D4" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=0d1117&labelColor=FF9900" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0d1117&labelColor=0078D4" />
+          </td>
+        </tr>
+      </table>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Microsoft-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0d1117&labelColor=0078D4" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=0d1117&labelColor=FF9900" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CNCF-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=0d1117&labelColor=326CE5" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Azure-Administrator_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0d1117&labelColor=0078D4" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=0d1117&labelColor=FF9900" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0d1117&labelColor=0078D4" />
+    <td valign="top" width="45%">
+      <h3 align="center" style="color: #00FF00;">📡 RESEARCH & TRANSMISSIONS</h3>
+      <table>
+        <tr>
+          <td>🛣️</td>
+          <td><b>Implementing ML Algorithms for Pothole &amp; Hump Detection</b><br/><sub>ICICTA 2022 &mdash; REVA University, India</sub></td>
+        </tr>
+        <tr>
+          <td>🛡️</td>
+          <td><b>Survey on DoS Detection and Prevention Techniques</b><br/><sub>ICACTA 2020 &mdash; REVA University, India</sub></td>
+        </tr>
+        <tr>
+          <td>📶</td>
+          <td><b>Utilizing Li-Fi in WLAN to Enhance B2B Communication</b><br/><sub>NCACTA 2019 &mdash; REVA University, India</sub></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -195,29 +225,24 @@ UPTIME  :  24/7
 <div align="center">
 <table>
   <tr>
-    <th>Organization</th>
-    <th>Role</th>
-    <th>Period</th>
-  </tr>
-  <tr>
     <td align="center"><b>OpenText</b></td>
-    <td>DevOps Engineer</td>
     <td align="center"><img src="https://img.shields.io/badge/Oct_2025-Present-00FF00?style=flat-square&color=0d1117&labelColor=008800" /></td>
+    <td>DevOps Engineer</td>
   </tr>
   <tr>
     <td align="center"><b>Mobius by Gaian</b></td>
-    <td>Senior DevOps Engineer → Junior DevOps → SRE</td>
     <td align="center"><img src="https://img.shields.io/badge/Mar_2023-Oct_2025-4285F4?style=flat-square&color=0d1117&labelColor=326CE5" /></td>
+    <td>SRE → Junior DevOps → Senior DevOps Engineer</td>
   </tr>
   <tr>
     <td align="center"><b>Ushur</b></td>
-    <td>Associate SRE → SRE Intern → DevOps Intern</td>
     <td align="center"><img src="https://img.shields.io/badge/Aug_2021-Mar_2023-FF9900?style=flat-square&color=0d1117&labelColor=FF9900" /></td>
+    <td>DevOps Intern → SRE Intern → Associate SRE</td>
   </tr>
   <tr>
     <td align="center"><b>Indian Red Cross Society Karnataka</b></td>
-    <td>WordPress Developer (Intern)</td>
     <td align="center"><img src="https://img.shields.io/badge/Oct_2020-Feb_2021-DC143C?style=flat-square&color=0d1117&labelColor=CC0000" /></td>
+    <td>WordPress Developer (Intern)</td>
   </tr>
 </table>
 </div>
@@ -270,16 +295,7 @@ UPTIME  :  24/7
 
 <br/>
 
-<h3 align="center" style="color: #00FF00;">�📡 RESEARCH & TRANSMISSIONS</h3>
-<div align="left">
-  <ul>
-    <li>🛣️ <b>Implementing ML Algorithms for Pothole & Hump Detection</b></li>
-    <li>🛡️ <b>Survey on DoS Detection and Prevention Techniques</b></li>
-    <li>📶 <b>Utilizing Li-Fi in WLAN to Enhance B2B Communication</b></li>
-  </ul>
-</div>
 
-<br/>
 
 <h3 align="center" style="color: #00FF00;">📊 SYSTEM TELEMETRY</h3>
 <div align="center">
