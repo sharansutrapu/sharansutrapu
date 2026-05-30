@@ -225,15 +225,19 @@ UPTIME  :  24/7
 <table>
   <tr>
     <td align="center"><b>OpenText</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Oct_2025-Present-00FF00?style=flat-square&color=0d1117&labelColor=008800" /></td>
   </tr>
   <tr>
     <td align="center"><b>Mobius by Gaian</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Mar_2023-Oct_2025-4285F4?style=flat-square&color=0d1117&labelColor=326CE5" /></td>
   </tr>
   <tr>
     <td align="center"><b>Ushur</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Aug_2021-Mar_2023-FF9900?style=flat-square&color=0d1117&labelColor=FF9900" /></td>
   </tr>
   <tr>
     <td align="center"><b>Indian Red Cross Society Karnataka</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Oct_2020-Feb_2021-DC143C?style=flat-square&color=0d1117&labelColor=CC0000" /></td>
   </tr>
 </table>
 </div>
