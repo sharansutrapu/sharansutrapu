@@ -52,10 +52,13 @@ UPTIME  :  24/7
 
 <h3 align="center" style="color: #00FF00;">🔐 CLEARANCE LEVELS</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/AWS-Certified_DevOps_Pro-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
-  <img src="https://img.shields.io/badge/CNCF-CKA_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=0d1117&labelColor=326CE5" /><br/>
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&color=0d1117&labelColor=FF9900" /><br/>
-  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&color=0d1117&labelColor=0078D4" />
+  <img src="https://img.shields.io/badge/Google_Cloud-Professional_Cloud_DevOps_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=0d1117&labelColor=4285F4" /><br/>
+  <img src="https://img.shields.io/badge/Microsoft-DevOps_Engineer_Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0d1117&labelColor=0078D4" /><br/>
+  <img src="https://img.shields.io/badge/AWS-DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=0d1117&labelColor=FF9900" /><br/>
+  <img src="https://img.shields.io/badge/CNCF-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&color=0d1117&labelColor=326CE5" /><br/>
+  <img src="https://img.shields.io/badge/Azure-Administrator_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0d1117&labelColor=0078D4" /><br/>
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&color=0d1117&labelColor=FF9900" /><br/>
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=0d1117&labelColor=0078D4" />
 </div>
 
 <br/>
