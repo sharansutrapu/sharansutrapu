@@ -53,7 +53,7 @@ UPTIME  :  24/7
 
 <h3 align="center" style="color: #00FF00;">🔐 CLEARANCE LEVELS</h3>
 
-<div align="left">
+<div align="center">
 <table>
   <tr>
     <td align="left">
